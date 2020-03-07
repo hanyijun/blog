@@ -24,4 +24,4 @@ googleTrackId:
 
 post_asset_folder: true
 
-favicon: favicon.ico
+favicon: /favicon.ico
