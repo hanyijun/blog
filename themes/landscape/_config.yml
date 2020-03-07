@@ -2,7 +2,7 @@
 menu:
   Home: /
   Archives: /archives
-  About: /about
+  about: /about
 rss: /atom.xml
 
 # Content
