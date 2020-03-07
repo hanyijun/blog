@@ -23,3 +23,6 @@ disqus_shortname:
 googleTrackId:
 
 post_asset_folder: true
+
+favicon:
+  small: /images/favicon.ico
