@@ -21,3 +21,5 @@ disqus_shortname:
 
 # google analytics
 googleTrackId:
+
+post_asset_folder: true
