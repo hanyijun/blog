@@ -28,7 +28,7 @@ requests_total{path="/status", method="GET", instance=”10.0.0.1:80”}
 
 1. [OpenTSDB](https://github.com/OpenTSDB/opentsdb)：一个分布式的时序型数据库，底层依赖于HBase。
 
-2. [Prometheus](https://github.com/prometheus/prometheus)：一个单机版的时序型数据库，K8S原生支持的时序型数据库。通过[kube-prometheus](https://github.com/coreos/kube-prometheus)，提供一站式的K8S监控解决方案。也可以通过[thanos](https://github.com/thanos-io/thanos)，让prometheus支持分布式存储。
+2. [Prometheus](https://github.com/prometheus/prometheus)：一个十分流行的时序型数据库，和K8S生态结合的很好。通过[kube-prometheus](https://github.com/coreos/kube-prometheus)，提供一站式的K8S监控解决方案。也可以通过[thanos](https://github.com/thanos-io/thanos)，让prometheus支持分布式存储。
 
 3. [InfluxDB](https://github.com/influxdata/influxdb)：一个商业化的时序型数据库，分布式版本需要收费。
 
