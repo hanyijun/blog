@@ -24,7 +24,7 @@ requests_total{path="/status", method="GET", instance=”10.0.0.1:80”}
 
 
 
-## 常用时序性数据库
+## 常用时序型数据库
 
 1. [OpenTSDB](https://github.com/OpenTSDB/opentsdb)：一个分布式的时序型数据库，底层依赖于HBase。
 
