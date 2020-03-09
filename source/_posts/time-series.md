@@ -8,7 +8,7 @@ date: 2019-03-07 12:34:12
 
 **时间序列**：时间序列是一组按照时间发生先后顺序进行排列的数据点序列。比如每小时气温的变化。时序很容易在图表上进行展示。
 
-![chart](/images/time-series/temp.jpeg)
+![chart](/images/time-series/temp.png)
 
 **度量（metric）**：数据指标的类别，如内存占用，请求量等。 
 
@@ -22,7 +22,7 @@ requests_total{path="/status", method="GET", instance=”10.0.0.1:80”}
 
 相同度量（metric）的不同标签可以展示在同一张图表上，形成多条数据线。比如上海和杭州的温度变化对比。
 
-![chart](/images/time-series/temp-compare.jpeg)
+![chart](/images/time-series/temp-compare.png)
 
 
 
